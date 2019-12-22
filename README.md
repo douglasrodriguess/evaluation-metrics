@@ -18,7 +18,7 @@
 | :---: |:---:|
 | Data   | [![GT](https://ars.els-cdn.com/content/image/1-s2.0-S2238785417302922-gr13.jpg)](http://fvcproductions.com)   |
 
-## bar-chart
+## Bar Chart
 
 | <a target="_blank">**Input data**</a> | <a target="_blank">**bar-chart**</a> |
 | :---: |:---:|
